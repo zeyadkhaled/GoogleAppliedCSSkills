@@ -1,0 +1,1 @@
+# This game depended on storing words that differ by one letter in a Graph data structure. Afterwards, a BFS searching algorithm was implemented to find the shortest valid ladder between two words in the dictionary.
